@@ -1,4 +1,4 @@
-package com.cc.crosshairconverter;
+package com.example.convertingapp;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
